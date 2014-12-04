@@ -1,0 +1,28 @@
+.wrapper{
+	clear:left;
+}
+
+h3{
+		color:#CCCCC2;
+	}
+
+.fragancias-n1{
+	float:left;
+	
+}	
+.fragancias-n2{
+	float:left;
+	
+}
+.lista-ninos{  
+	float: right;
+	padding-right:90px;
+	padding-bottom:60px;
+	font-size:15px;
+}
+	.lista-ninos  img{
+			-webkit-box-shadow:10px 10px 10px rgba (0,0,0,0.2);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+
+}

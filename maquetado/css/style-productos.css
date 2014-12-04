@@ -1,0 +1,46 @@
+
+
+
+
+
+.wrapper{
+
+	margin:5em 0 0 0;
+}
+
+	.fragancias  img{
+			-webkit-box-shadow:10px 10px 10px rgba (0,0,0,0.2);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+   }
+
+    .fragancias img{
+   
+    margin: 10px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+.fragancias img:hover {
+    margin-top: 2px;
+}
+
+.fragancias1 {
+	float:left;
+	margin-left:60px;
+	margin-right:30px;
+}
+
+.fragancia2{
+	float:right;
+}
+
+.link a{
+	display: inline-block;
+	margin:1px 1px; 
+	margin-left: 420px;
+}
+

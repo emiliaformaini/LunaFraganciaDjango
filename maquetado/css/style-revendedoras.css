@@ -1,0 +1,30 @@
+
+
+h2{
+	font-size:20px;
+	color:#CCCCC2;
+
+}
+p {
+	margin:0;
+	font-size:15px;
+}
+
+.wrapper{
+	margin:5em 0 0 0;
+	clear:left;
+	
+}
+
+.texto{
+	width:50%;
+	max-width:600px;
+	float:left;
+
+}
+
+.formulario {
+	float: right;
+
+}
+	

@@ -1,0 +1,36 @@
+
+
+h3 {
+	font-size:20px;
+	color:#CCCCC2;
+
+}
+p {
+	font-size:15px;
+}
+
+.wrapper{
+	margin:5em 0 0 0;
+	}
+
+.imagen-empresa{
+	float:right;
+}
+
+
+	.imagen-empresa img{
+	-webkit-box-shadow:10px 10px 10px rgba (0,0,0,0.2);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+ margin-right:15px;
+ margin-top:15px;
+}
+
+.texto{
+	float: left;
+	width:45%;
+	max-width:600px;
+	}
+
+
+

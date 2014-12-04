@@ -1,0 +1,36 @@
+
+.wrapper{
+	
+	clear:left;
+
+}
+h3{
+		color:#CCCCC2;
+	}
+
+
+
+.fragancias-m1{
+	float:left;
+	margin:3px;
+
+}	
+	
+.fragancias-m2{
+	float:left;
+
+}	
+
+.lista-mujeres{  
+	float: right;
+	margin:0;
+	font-size:15px;
+}
+	
+		.lista-mujeres  img{
+			-webkit-box-shadow:10px 10px 10px rgba (0,0,0,0.2);
+    -moz-box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+
+}
+

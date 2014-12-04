@@ -1,0 +1,13 @@
+
+.wrapper{
+	display: inline-block;
+	clear:right;
+}
+.lista-ambientales{
+	float:left;
+}
+footer {
+	margin-left: 150px;
+} 
+
+

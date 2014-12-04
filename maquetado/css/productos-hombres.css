@@ -1,0 +1,35 @@
+
+
+.wrapper{
+	
+	clear:left;
+}
+
+h3{
+		color:#CCCCC2;
+	}
+
+.fragancias-h1{
+	float:left;
+	margin:3px;
+}	
+	
+.fragancias-h2{
+	float:left;
+}	
+
+.lista-hombre{  
+	float: right;
+	font-size:15px;
+	margin-bottom:30px;
+
+}
+
+.lista-hombre  img{
+
+-webkit-box-shadow:10px 10px 10px rgba (0,0,0,0.2);
+-moz-box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+box-shadow: 8px 8px 8px rgba(0,0,0,0.2);
+
+}
+

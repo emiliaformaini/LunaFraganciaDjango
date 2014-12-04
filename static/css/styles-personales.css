@@ -1,0 +1,43 @@
+.wrapper{
+	margin:5em 0 0 0;
+	}
+
+.hombre{
+	float:left;
+}
+.mujer{
+	float:left;
+}
+.nino{
+	float:left;
+}
+.nino img{
+    margin:auto;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+.nino img:hover {
+    margin-top: 3px;
+}
+.mujer img{
+    margin:auto;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+.mujer img:hover {
+    margin-top: 2px;
+}
+.hombre img{
+    margin:auto;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+.hombre img:hover {
+    margin-top: 2px;
+}
+.boton{
+	clear:left;
+}
